@@ -6,6 +6,7 @@ During the Covid-19 Pandemic, I found two useful Python resources, that I can se
   The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a computer science approach and the Informatics approach taken in this book is a greater focus on using Python to solve data analysis problems common in the world of Informatics.
 ## An Important Note:
   As you will notice in this repository, that I have decided to not finish the 30 Days Python Challenge and started with the Python for Everybody book after the 12th day. This is due to the book, being closer to what I will be eventually studying at university, and so I decided to start working with the book. In addition to this, I have yet to finish working through the book, and so this repository will be updated at a later notice.
+  
   Should you want to download this repository and view it on your computer, you can download [Visual Studio Code](https://code.visualstudio.com) onto your computer, then download the Python Extension in VSCode to run locally.
   
 #### Enjoying this repository? Kindly support me with some spare change, as I'm still a husttling university student!
