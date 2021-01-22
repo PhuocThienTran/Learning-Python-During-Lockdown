@@ -1,7 +1,7 @@
 """
 So Far: 
 string = "banana"
-lists = ["Hello", 17, 123, ["Ishini", 2, 3]] <- Are mutable because can change
+lists = ["Hello", 17, 123, ["Josh", 2, 3]] <- Are mutable because can change
 the order of items or reassign an item 
 dictionary = {"Ishini": "Girlfriend", "Barnaby": "Bestfriend", "Thien": "Myself"} <- Are mutable
 tuples = ("a", "b", "c", 2000) <- Are immutable 
