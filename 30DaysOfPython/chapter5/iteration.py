@@ -23,7 +23,7 @@ while True:
     print(usr_line)
 print('Done!')
 
-friends = ['Ishini', 'Barnaby', 'Thien']
+friends = ['John', 'Barnaby', 'Thien']
 for friend in friends:
     print('Happy New Year:', friend)
 print('Done!')
