@@ -21,8 +21,8 @@ student = {
     "country" : "Vietnam",
     "city" : "Ho Chi Minh City",
     "address" : { #dictionary
-        "street" : "Queen Street",
-        "Code" : "4218"
+        "street" : "Some Street",
+        "Code" : "10000"
         }
     }
 #4
