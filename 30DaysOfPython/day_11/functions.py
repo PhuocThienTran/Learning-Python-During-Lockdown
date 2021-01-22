@@ -64,7 +64,7 @@ def print_list (names,*list_names):
     print(names)
     for i in list_names:
         print(i)
-print_list('Team: ','Barnaby','Thien','Ishini')
+print_list('Team: ','Barnaby','Thien','Paul')
 
 #9
 def reverse_list(r_list_names):
