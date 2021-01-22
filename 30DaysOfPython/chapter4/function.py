@@ -1,7 +1,7 @@
 import math
 import random
 
-print("Number of Letters: ", len("Ishini Tennakoon Hewage Tennakoon"))
+print("Number of Letters: ", len("Paul William Smith Jr. III"))
 
 for i in range(10): #run the for loop 10 times
     x = random.randint(0,100)
@@ -19,7 +19,7 @@ repeat_proglang()
 
 def print_name(fname,lname):
     print(fname + lname)
-print_name(("Thien","Tran"),("Ishini","Tennakoon"))
+print_name(("Thien","Tran"),("Paul","Smith"))
 
 def add_two(a,b):
     added = a + b
