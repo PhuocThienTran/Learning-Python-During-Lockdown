@@ -5,14 +5,14 @@ import statistics #lib for exercise lvl 2 calcs
 #1
 empty_list = []
 #2
-q2_list = ["Ishini","Tennakoon","Hewage","Tennakoon","Tran"] #list with 5 items
+q2_list = ["Apple","Orange","Maple","Rice","Tran"] #list with 5 items
 #3
 print(len(q2_list)) #list length
 #4
 item1, item2, item3, item4, item5 = q2_list
 print(item1,item3,item5) #get list item
 #5
-mix_data_types = ["Thien", 20, 170, False, "Queen Street"] #mix data type 
+mix_data_types = ["Thien", 20, 170, False, "Some Street"] #mix data type 
 #6
 it_companies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"]
 #7
