@@ -4,14 +4,14 @@
 #1
 empty_tpl = tuple() #empty tuple
 #2
-q2_brothertpl = ("Thuan", "Thanh", "Bao")
-q2_sistertpl = ("Han", "Ngan", "Vy")
+q2_brothertpl = ("Thi", "Mai", "Nguyen")
+q2_sistertpl = ("Nam", "Trieu", "Doanh")
 #3
 siblings = q2_brothertpl + q2_sistertpl
 #4
 print(len(siblings))
 #5
-q5_siblings = ("Thu", "Tho")
+q5_siblings = ("Mark", "Josh")
 family_members = siblings + q5_siblings
 #6
 print(siblings)
