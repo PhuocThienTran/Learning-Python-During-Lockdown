@@ -13,6 +13,4 @@ During the Covid-19 Pandemic, I found two useful Python resources, that I can se
   <a href="https://www.paypal.me/thientran2702"><img src="blue.svg" height="40"></a>  
 <p>PayPal is a registered trademark of PayPal, Inc. The PayPal logo is a trademark of PayPal, Inc.</p>
 
-######## <p align="center"> Trường Sa và Hoàng Sa là của Việt Nam.</p>
-
-
+###### <p align="center"> Trường Sa và Hoàng Sa là của Việt Nam.</p>
