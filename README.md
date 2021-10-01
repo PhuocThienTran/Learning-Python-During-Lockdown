@@ -9,8 +9,8 @@ During the Covid-19 Pandemic, I found two useful Python resources, that I can se
   
   Should you want to download this repository and view it on your computer, you can download [Visual Studio Code](https://code.visualstudio.com) onto your computer, then download the Python Extension in VSCode to run locally.
   
-#### Enjoying this repository? Kindly support me with some spare change, as I'm still a husttling university student!
-  <a href="https://www.paypal.me/thientran2702"><img src="blue.svg" height="40"></a>  
+#### Buy me a coffee? ☕️
+  <a href="https://www.paypal.me/thientran2702"><img src="blue.svg" height="30"></a>  
 <p>PayPal is a registered trademark of PayPal, Inc. The PayPal logo is a trademark of PayPal, Inc.</p>
 
 ###### <p align="center"> Trường Sa và Hoàng Sa là của Việt Nam.</p>
